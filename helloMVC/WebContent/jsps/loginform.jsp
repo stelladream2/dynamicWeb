@@ -9,7 +9,7 @@
 <body>
 
 <form action="DoLogin" method="get" >
-Customer ID(id001, id002, id003):
+Customer ID(id001, id002, id003, 004, 005):
 <input type="text" name = "customerId" /> <br/>
 <input type="submit" value="Submit" />
 </form>
